@@ -1,1 +1,1 @@
-# WebScrapping- Web Scrapper to scrap data from website
+# WebScraping- Web Scraper to scrap data from website
